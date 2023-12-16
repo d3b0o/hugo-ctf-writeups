@@ -56,7 +56,7 @@ Then, in the single.html file, which handles the layout of the post pages, we wi
 
 (Emphasizing that the configuration may vary depending on the website theme.)
 
-![](images/2.png)
+![](images/1.png)
 
 If you want to add a section with statistics for all write-ups, you can include the [stats.html](stats.html) file in the path shown in the following diagram.
 
