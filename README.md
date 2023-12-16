@@ -1,6 +1,6 @@
 This configuration is specifically designed for websites created with Hugo. Its main function is to automatically apply icons based on the operating system of a CTF, the platform, and the corresponding difficulty. Subsequently, it facilitates the classification and sorting of these challenges according to various criteria, such as difficulty, platform, among others, enabling the creation of detailed statistics.
 
-![](3.png)
+![](images/3.png)
 
 To incorporate a bar reflecting the difficulty, operating system icon, and platform in your posts, we will need to introduce new parameters in the blog entries, such as "os" (operating system), "difficulty," and "platform."
 
@@ -56,9 +56,9 @@ Then, in the single.html file, which handles the layout of the post pages, we wi
 
 (Emphasizing that the configuration may vary depending on the website theme.)
 
-![](2.png)
+![](images/2.png)
 
-If you want to add a section with statistics for all write-ups, you can include the ![stats.html](stats.html) file in the path shown in the following diagram.
+If you want to add a section with statistics for all write-ups, you can include the [stats.html](stats.html) file in the path shown in the following diagram.
 
 ```
 layouts/
